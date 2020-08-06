@@ -64,11 +64,11 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+# user_groups:
+# - Researchers
+# - Visitors
 ---
 
-Welcome! I am a PhD candidate in the Department of Economics at Michigan State University. My current research explores how college students make their enrollment, labor supply, borrowing, and studying decisions. I also have research examining how labor supply elasticities for adults in the United States have changed over time, and research studying how students' non-cognitive skills are influenced by the gender distribution of their peers.
+I am a PhD candidate in the Department of Economics at Michigan State University. My current research explores how college students make their enrollment, labor supply, borrowing, and studying decisions. I also have research examining how labor supply elasticities for adults in the United States have changed over time, and research studying how students' non-cognitive skills are influenced by the gender distribution of their peers.
 
 **I am currently accepting interview requests for the 2020-2021 job market.**
