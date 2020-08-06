@@ -5,17 +5,17 @@
 
 [[main]]
   name = "Research"
-  url = "#about"
+  url = "#research"
   weight = 10
 
 [[main]]
   name = "Teaching"
-  url = "#posts"
+  url = "#courses"
   weight = 20
 
 [[main]]
   name = "Code"
-  url = "#projects"
+  url = "#code"
   weight = 30
 
 # Link to a PDF of your resume/CV from the menu.
