@@ -31,7 +31,7 @@ education:
     year: 2021 (expected)
   - course: MA in Economics
     institution: Michigan State University
-    year: 2017
+    year: 2016
   - course: BBA in Finance, Economics, Entrepreneurship
     institution: Baylor University
     year: 2009
