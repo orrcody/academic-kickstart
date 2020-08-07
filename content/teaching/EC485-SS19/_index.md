@@ -17,9 +17,5 @@ type: docs  # Do not modify.
 ## Class Information
 * Instructor
   - Cody Orr
-* Books
-  - Economics of Education by Mike Lovenheim and Sarah Turner
-* Class Time
-  - Monday and Wednesday, 3-4:20 PM ET
 
 
