@@ -12,5 +12,21 @@ draft: false  # Is this a draft? true/false
 toc: false  # Show table of contents? true/false
 type: docs  # Do not modify.
 
+# Add menu entry to sidebar.
+# - name: Declare this menu item as a parent with ID `name`.
+# - weight: Position of link in menu.
+menu:
+  ec410:
+    name: Main
+    weight: 1
+---
+
+## Class Information
+* Instructor
+  - Cody Orr
+* Books
+  - Economics of Education by Mike Lovenheim and Sarah Turner
+* Class Time
+  - Monday and Wednesday, 3-4:20 PM ET
 
 
