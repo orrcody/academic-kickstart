@@ -21,7 +21,7 @@ header:
 
 [Download manuscript (pdf)](/drafts/elasticityovertime)
 
-#
+# 
 
 ## Works in progress
 
