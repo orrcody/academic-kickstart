@@ -14,7 +14,7 @@ The intersection of economics and education with a focus on U.S. education polic
 - Fall 2020 Syllabus
 - [Spring 2019 Syllabus](syllabi/EC485-Syllabus-SS19.pdf)
 
-### EC 201: Introduction to Microeconomics
+## EC 201: Introduction to Microeconomics
 Economic institutions, reasoning and analysis. Consumption, production, determination of price and quantity in different markets. Income distribution, market structure and normative analysis.
 
 - [Summer 2017 Syllabus](syllabi/EC201-Syllabus-US17.pdf)
