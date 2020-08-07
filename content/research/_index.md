@@ -21,6 +21,8 @@ header:
 
 [Download manuscript (pdf)](/drafts/elasticityovertime)
 
+#
+
 ## Works in progress
 
 ### Clocking into work and out of class: How college students make their enrollment and employment decisions
