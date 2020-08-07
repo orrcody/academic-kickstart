@@ -16,7 +16,7 @@ header:
 [Download manuscript (pdf)](/drafts/peereffects)
 
 ### The Evolution of the Wage Elasticity of Labor Supply over Time 
-*Joint with Todd Elder and Steven J. Haider*
+*Joint with Todd Elder and Steven J. Haider*  
 **Abstract:** The wage elasticity of labor supply is arguably one of the most fundamental parameters in economics.  Despite the central role of this parameter, little is known about how it has changed over time.  We examine the evolution of the labor supply elasticity using cross-sectional methods.  We find robust evidence that the labor supply elasticities for married and single men and women have increased modestly over the last two decades.  For women, this finding is a substantial departure from earlier evidence.  We also contribute to the literature on the robustness of discrete choice labor supply models, focusing on assumptions that could affect our findings.  Our results suggest that the estimated trends are remarkably similar across a variety of specifications.
 
 [Download manuscript (pdf)](/drafts/elasticityovertime)
