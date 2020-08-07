@@ -8,7 +8,7 @@ header:
   image: ""
 ---
 
-### EC 485: Economics of Education
+## EC 485: Economics of Education
 The intersection of economics and education with a focus on U.S. education policy. Human capital, education production, and education reforms.
 
 - Fall 2020 Syllabus
