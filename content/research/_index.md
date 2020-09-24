@@ -10,8 +10,8 @@ header:
 
 ## Working Papers
 
-### Female peers and non-cognitive outcomes in Add Health
-**Abstract:** This paper studies the effect of peer gender on a variety of non-cognitive and cognitive outcomes using variation across adjacent school cohorts in the Add Health survey. Among female students, I find suggestive evidence that an increase in the share of female peers improves course grades, paying attention in class, sense of belonging, and positive beliefs about oneself. Among male students, I find an increase in the share of female peers reduces course grades and homework completion while increasing class attention and closeness to other students. Imprecision makes it difficult to draw firm conclusions from these results. 
+### Peer Gender Composition and Non-Cognitive Outcomes
+**Abstract:** This paper studies the effect of the gender composition of a student’s peers on two non-cognitive skills: sense of belonging and self-worth. Using data from Add Health and exploiting idiosyncratic variation in the share of female peers across grades within schools, I find a small and statistically significant positive effect of a higher share of female peers on both non-cognitive skills for male students. I do not find evidence of an effect for female students. 
 
 [Download manuscript (pdf)](/drafts/peereffects)
 
@@ -25,9 +25,9 @@ header:
 
 ## Work in progress
 
-### Clocking into work and out of class: How college students make their enrollment and employment decisions
+### Clocking Into Work and Out of Class:  How College Students Make Their Credit Intensity and Financing Decisions
 **Abstract:** This paper studies how college students make and finance their human capital investment decisions under financial constraints and uncertainty. I estimate a dynamic structural model where agents choose their labor supply, enrollment intensity, and borrowing to maximize lifetime utility. Data come from two sources: unique survey data of students' employment history, family financial support, and beliefs about the returns to studying and returns to earning higher grades, and merged administrative data containing students' enrollment and borrowing histories. 
 
-### Why students do not study: Quantifying the role of expectations
+### Why Students Do Not Study: Quantifying the Role of Expectations
 **Abstract:** This paper explores the relationship between college students’ beliefs about the returns to studying and their reported study hours. Using novel survey data, I report the typical study hours of students and how study behavior differs by student observables like gender, race, college, etc. I then describe students’ beliefs about the GPA returns to studying and future labor market returns to graduating with a high GPA and quantify the heterogeneity of returns and uncertainty of returns. Next, I present correlations in the data between students’ observables and their beliefs about the returns to studying and earning a high GPA. Finally, I regress reported schoolwork hours on these beliefs to quantify the relationship between these variables.
 
