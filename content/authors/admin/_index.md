@@ -47,6 +47,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/cody_orr
+- icon: fa-linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/codyorr/
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
