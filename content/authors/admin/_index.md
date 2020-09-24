@@ -47,7 +47,7 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/cody_orr
-- icon: fa-linkedin
+- icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/codyorr/
 # - icon: google-scholar
