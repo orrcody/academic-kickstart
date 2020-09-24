@@ -23,7 +23,7 @@ header:
 
 &nbsp;  
 
-## Works in progress
+## Work in progress
 
 ### Clocking into work and out of class: How college students make their enrollment and employment decisions
 **Abstract:** This paper studies how college students make and finance their human capital investment decisions under financial constraints and uncertainty. I estimate a dynamic structural model where agents choose their labor supply, enrollment intensity, and borrowing to maximize lifetime utility. Data come from two sources: unique survey data of students' employment history, family financial support, and beliefs about the returns to studying and returns to earning higher grades, and merged administrative data containing students' enrollment and borrowing histories. 
