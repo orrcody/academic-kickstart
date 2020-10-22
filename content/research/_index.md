@@ -23,7 +23,7 @@ header:
 [Download manuscript (pdf)](/drafts/wage-elasticity-trends)
 
 ### Peer Gender Composition and Non-Cognitive Outcomes
-**Abstract:** This paper studies the effect of the gender composition of a student’s peers on two non-cognitive skills: sense of belonging and self-worth. Using data from Add Health and exploiting idiosyncratic variation in the share of female peers across grades within schools, I find a small and statistically significant positive effect of a higher share of female peers on both non-cognitive skills for male students. I do not find evidence of an effect for female students. 
+**Abstract:** This paper studies the effect of the gender composition of a student’s peers on two non-cognitive skills: sense of belonging and self-worth. Using data from Add Health and exploiting idiosyncratic variation in the share of female peers across grades within schools, I find positive but small effects of a higher share of female peers for male students. I do not find statistically significant effects for female students, but I can rule out practically significant positive effects.    
 
 [Download manuscript (pdf)](/drafts/peer-gender-and-noncogs)
 
