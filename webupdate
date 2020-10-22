@@ -1,0 +1,16 @@
+First - remove mywebsite folder in github directory
+C:\Users\Test\Documents\GitHub
+
+git clone https://github.com/orrcody/academic-kickstart.git mywebsite
+cd mywebsite
+git submodule update --init --recursive
+git rm -r public/
+git submodule add -f -b master https://github.com/orrcody/orrcody.github.io.git public
+git add .
+git commit -m "Website update"
+git push -u origin master
+hugo
+cd public
+git add .
+git commit -m "Build website"
+git push origin master
