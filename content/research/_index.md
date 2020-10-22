@@ -14,18 +14,18 @@ header:
 
 **Abstract:** This paper studies how college students make and finance their credit hour enrollment, paying particular attention to the role of financial resources and beliefs. To formalize these relationships, I construct a dynamic structural model where students choose their credit hours, work hours, and borrowing to maximize lifetime utility. I collect data from two sources to estimate the model: (1) a unique survey of Michigan State undergraduates eliciting their employment history, family financial support, beliefs about the returns to studying and earning a high GPA, and (2) administrative data from the University. Estimates of the model suggest that students' credit hour decision is inelastic with respect to changes in aid, tuition, beliefs, or wages. Students' labor supply and borrowing decisions are responsive to changes in wages, and for a subset of students, changes in beliefs. I also conduct two counterfactual simulations, increasing minimum wage and making college tuition free, and evaluate how the policies affect student decisions and outcomes.
 
-[Download manuscript (pdf)](/drafts/into-work-out-of-class)
+[Download manuscript (pdf)](/drafts/into-work-out-of-class.pdf)
 
 ### The Evolution of the Wage Elasticity of Labor Supply over Time 
 *Joint with Todd Elder and Steven J. Haider*  
 **Abstract:** The wage elasticity of labor supply is arguably one of the most fundamental parameters in economics.  Despite the central role of this parameter, little is known about how it has changed over time.  We examine the evolution of the labor supply elasticity using cross-sectional methods.  We find robust evidence that the labor supply elasticities for married and single men and women have increased modestly over the last two decades.  For women, this finding is a substantial departure from earlier evidence.  We also contribute to the literature on the robustness of discrete choice labor supply models, focusing on assumptions that could affect our findings.  Our results suggest that the estimated trends are remarkably similar across a variety of specifications.
 
-[Download manuscript (pdf)](/drafts/wage-elasticity-trends)
+[Download manuscript (pdf)](/drafts/wage-elasticity-trends.pdf)
 
 ### Peer Gender Composition and Non-Cognitive Outcomes
 **Abstract:** This paper studies the effect of the gender composition of a student’s peers on two non-cognitive skills: sense of belonging and self-worth. Using data from Add Health and exploiting idiosyncratic variation in the share of female peers across grades within schools, I find positive but small effects of a higher share of female peers for male students. I do not find statistically significant effects for female students, but I can rule out practically significant positive effects.    
 
-[Download manuscript (pdf)](/drafts/peer-gender-and-noncog-skills)
+[Download manuscript (pdf)](/drafts/peer-gender-and-noncog-skills.pdf)
 
 &nbsp;  
 
