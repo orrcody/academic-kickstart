@@ -17,7 +17,7 @@ header:
 [Download manuscript (Coming soon)](/drafts/into-work-out-of-class.pdf)
 
 ### The Evolution of the Wage Elasticity of Labor Supply over Time 
-*Joint with Todd Elder and Steven J. Haider*  
+*Joint with [Todd Elder](https://sites.google.com/view/toddelder/) and [Steven J. Haider](https://sites.google.com/view/haider-webpage/home)*  
 **Abstract:** The wage elasticity of labor supply is arguably one of the most fundamental parameters in economics.  Despite the central role of this parameter, little is known about how it has changed over time.  We examine the evolution of the labor supply elasticity using cross-sectional methods.  We find robust evidence that the labor supply elasticities for married and single men and women have increased modestly over the last two decades.  For women, this finding is a substantial departure from earlier evidence.  We also contribute to the literature on the robustness of discrete choice labor supply models, focusing on assumptions that could affect our findings.  Our results suggest that the estimated trends are remarkably similar across a variety of specifications.
 
 [Download manuscript (pdf)](drafts/wage-elasticity-trends.pdf)
@@ -35,6 +35,6 @@ header:
 **Abstract:** This paper explores the relationship between college students’ beliefs about the returns to studying and their reported study hours. Using novel survey data, I report the typical study hours of students and how study behavior differs by student observables like gender, race, college, etc. I then describe students’ beliefs about the GPA returns to studying and future labor market returns to graduating with a high GPA and quantify the heterogeneity of returns and uncertainty of returns. Next, I present correlations in the data between students’ observables and their beliefs about the returns to studying and earning a high GPA. Finally, I regress reported schoolwork hours on these beliefs to quantify the relationship between these variables.
 
 ### Returns to School Spending in Rural America
-*Joint with Riley Acton and Salem Rogers*  
+*Joint with [Riley Acton](https://sites.google.com/view/rileyacton/) and Salem Rogers*  
 **Abstract:** In this paper, we evaluate the impact of Wisconsin’s Sparsity Aid Program, a program that provides $25 million dollars annually to over 140 small, rural school districts in the state. We leverage the introduction and subsequent expansion of the program in event study and difference-in-differences designs that compare the outcomes of school districts that were eligible and ineligible for sparsity aid over time. Using comprehensive school finance data from the Common Core of Data (CCD), we first show that receiving a sparsity aid payment increases annual spending on elementary and secondary education by approximately $225 per member. We then embed the increased spending in an instrumented different-in-differences design that instruments for a district’s total spending with their sparsity aid eligibility. Our preliminary results using district-level data from Wisconsin’s Department of Public Instruction (DPI) indicate that the increased spending induced by the program has minimal effects on districts’ average test scores. However, we find positive and statistically significant effects on college-going behavior.
 
