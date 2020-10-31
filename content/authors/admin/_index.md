@@ -23,6 +23,7 @@ bio: PhD Candidate in Economics, Labor and Education
 interests:
 - Labor Economics
 - Economics of Education
+- Applied Econometrics
 
 education:
   courses:
