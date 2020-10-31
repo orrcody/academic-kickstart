@@ -20,3 +20,9 @@ The intersection of economics and education with a focus on U.S. education polic
 Economic institutions, reasoning and analysis. Consumption, production, determination of price and quantity in different markets. Income distribution, market structure and normative analysis.
 
 - [Summer 2017 Syllabus](syllabi/EC201-Syllabus-US17.pdf)
+
+&nbsp;  
+
+## Teaching documents
+- [Teaching philosophy](Orr-Teaching-Philosophy.pdf)
+- [Teaching evaluations](Orr-Teaching-Evaluations.pdf)
