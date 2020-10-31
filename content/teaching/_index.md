@@ -24,5 +24,5 @@ Economic institutions, reasoning and analysis. Consumption, production, determin
 &nbsp;  
 
 ## Teaching documents
-- [Teaching philosophy](Orr-Teaching-Philosophy.pdf)
-- [Teaching evaluations](Orr-Teaching-Evaluations.pdf)
+- [Teaching philosophy](otherdocs/Orr-Teaching-Philosophy.pdf)
+- [Teaching evaluations](otherdocs/Orr-Teaching-Evaluations.pdf)
