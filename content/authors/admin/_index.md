@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD Candidate in Economics, Labor and Education
+bio: Labor and Education Economist
 
 interests:
 - Labor Economics
