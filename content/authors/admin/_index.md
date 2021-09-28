@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate in Economics
+role: Economist
 
 # Organizations/Affiliations
 organizations:
-- name: Michigan State University
+- name: Center for Economic Studies, U.S. Census Bureau
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -29,7 +29,7 @@ education:
   courses:
   - course: PhD in Economics
     institution: Michigan State University
-    year: 2021 (expected)
+    year: 2021
   - course: MA in Economics
     institution: Michigan State University
     year: 2016
@@ -73,6 +73,6 @@ email: ""
 # - Visitors
 ---
 
-I am a PhD candidate in the Department of Economics at Michigan State University. My current research explores how college students make their enrollment, labor supply, borrowing, and studying decisions. I also have research examining how labor supply elasticities for adults in the United States have changed over time and research studying how students' non-cognitive skills are influenced by the gender distribution of their peers. 
+I am a labor economist with the Center for Economics Studies at the U.S. Census Bureau. My current research explores how college students make their enrollment, labor supply, borrowing, and studying decisions. I also have research examining how labor supply elasticities for adults in the United States have changed over time and research studying how students' non-cognitive factors are influenced by the gender distribution of their peers. 
 
-I am joining the Center for Economic Studies at the US Census Bureau in July. 
+Before joining CES, I earned my PhD in Economics from Michigan State University. 
