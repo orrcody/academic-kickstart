@@ -13,7 +13,7 @@ header:
 #### Peer Gender Composition and Non-Cognitive Factors. Applied Economics Letters. Forthcoming.
 **Abstract:** This note studies the relationship between the gender composition of a student’s peers and two of their non-cognitive factors: sense of belonging and self-worth. Using data from Add Health and exploiting idiosyncratic variation in the share of female peers across grades within schools, I find positive but small effects of a higher share of female peers for male students. I do not find statistically significant effects for female students, but I can rule out large positive effects.
 
-[Download manuscript (pdf)](drafts/peer-gender-and-noncog-factors.pdf) | [Online appendix (pdf)](drafts/peer-gender-and-noncog-factors-appendix.pdf)
+[Published version](https://www.tandfonline.com/doi/full/10.1080/13504851.2021.1991560) | [Download manuscript (pdf)](drafts/peer-gender-and-noncog-factors.pdf) | [Online appendix (pdf)](drafts/peer-gender-and-noncog-factors-appendix.pdf)
 
 &nbsp;  
 
