@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Economist
+role: Research Economist
 
 # Organizations/Affiliations
 organizations:
@@ -44,10 +44,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:orrcody@msu.edu'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/cody_orr
+  link: 'mailto:cody_orr@alumni.baylor.edu'  # For a direct email link, use "mailto:test@example.org".
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/cody_orr
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/codyorr/
@@ -73,6 +73,4 @@ email: ""
 # - Visitors
 ---
 
-I am a labor economist with the Center for Economics Studies at the U.S. Census Bureau. My current research explores how college students make their enrollment, labor supply, borrowing, and studying decisions. I also have research examining how labor supply elasticities for adults in the United States have changed over time and research studying how students' non-cognitive factors are influenced by the gender distribution of their peers. 
-
-Before joining CES, I earned my PhD in Economics from Michigan State University. 
+I am a labor economist with the Center for Economics Studies at the U.S. Census Bureau. My current research involves using the Postsecondary Employment Outcomes data product to study the interaction of higher education and the workforce. Before joining CES, I earned my PhD in Economics from Michigan State University. 
