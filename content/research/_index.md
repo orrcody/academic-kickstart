@@ -10,6 +10,12 @@ header:
 
 ### Peer Reviewed Publications
 
+#### The Evolution of the Wage Elasticity of Labor Supply over Time. Journal of Human Resources. Forthcoming. 
+*Joint with [Todd Elder](https://sites.google.com/view/toddelder/) and [Steven J. Haider](https://sites.google.com/view/haider-webpage/home)*  
+**Abstract:** The uncompensated wage elasticity of labor supply is a fundamental parameter in economics. Despite its central role, few papers have studied directly how it has changed over time. We examine the evolution of this elasticity over the last four decades.  We find robust evidence that the elasticity weakly increased between 2000 and 2020, representing a striking reversal from the sizable declines for single and married women between 1979 and 2000. We additionally find that these changes mostly arose on the extensive margin. Using our model, we conduct a series of counterfactual simulations to identify the factors responsible for these trends.
+
+[Pre-publication version](drafts/ElasticityOverTime-EHO.pdf)
+
 #### Peer Gender Composition and Non-Cognitive Factors (2023). Applied Economics Letters. 30(4): 441-444.
 **Abstract:** This note studies the relationship between the gender composition of a student’s peers and two of their non-cognitive factors: sense of belonging and self-worth. Using data from Add Health and exploiting idiosyncratic variation in the share of female peers across grades within schools, I find positive but small effects of a higher share of female peers for male students. I do not find statistically significant effects for female students, but I can rule out large positive effects.
 
@@ -18,13 +24,6 @@ header:
 &nbsp;  
 
 ### Working Papers
-
-#### The Evolution of the Wage Elasticity of Labor Supply over Time 
-*Joint with [Todd Elder](https://sites.google.com/view/toddelder/) and [Steven J. Haider](https://sites.google.com/view/haider-webpage/home)*  
-**Abstract:** The uncompensated wage elasticity of labor supply is a fundamental parameter in economics. Despite its central role, very few papers have studied directly how it has changed over time. We examine the evolution of the uncompensated labor supply elasticity using cross-sectional methods over the last four decades. We find robust evidence that the elasticities weakly increased between 2000 and 2020, which represents a striking reversal from the sizeable declines for single and married women between 1979 and 2000. We additionally find that these changes arose almost entirely on the extensive margin. We then conduct a series of counterfactual simulations to identify which factors are most responsible for these trends.
-
-[IZA DP No. 16393](https://docs.iza.org/dp16393.pdf)
-
 
 #### Returns to School Spending in Rural America: Evidence from Wisconsin’s Sparsity Aid Program
 *Joint with [Riley Acton](https://sites.google.com/view/rileyacton/) and Salem Rogers*  
